@@ -19,6 +19,8 @@ comparing it with the total launched campaigns  (67%).
 - According to the analysis, December is the worst month to launch a campaign, 
 since there are only 37 successful ones. campaigns representing 49% of the total campaigns 
 that were launched during December.
+
+![Aanalysis of outcomes based on launch dates](Resources/Thater_Outcomes_vs_Launch.png)
    
 ### Analysis of Outcomes Based on Goals
 
