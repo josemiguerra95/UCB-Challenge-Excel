@@ -28,7 +28,7 @@ that were launched during December.
 has more more chances to be succesful.
 
 
-![Aanalysis of outcomes Based on Goals](Resources/Thater_Outcomes_vs_Launch.png)
+![Aanalysis of outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
