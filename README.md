@@ -27,6 +27,9 @@ that were launched during December.
 - After creating our charts, we are able to notice that when a campaign is launched with a goal less than $1000,00
 has more more chances to be succesful.
 
+
+![Aanalysis of outcomes Based on Goals](Thater_Outcomes_vs_Launch.png)
+
 ### Challenges and Difficulties Encountered
 
 - Personally, I found myself a bit challenged while doing the "Outcomes Based on Goals" analysis 
